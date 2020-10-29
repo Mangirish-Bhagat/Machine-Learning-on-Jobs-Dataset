@@ -1,0 +1,128 @@
+.
+├── apriori.ipynb - 25 lines, By Alvyn Abranches
+├── backup
+│   ├── fd57d77770172fa7de301ff18cb0087c.xlsx
+│   └── indeed_results.xlsx
+├── bigdata
+│   └── website
+│       ├── app.py - 174 lines, By Alvyn Abranches
+│       └── __pycache__
+│           └── app.cpython-37.pyc
+├── bigdata.html
+├── chromedriver
+│   ├── 80
+│   │   ├── chromedriver
+│   │   └── chromedriver.exe
+│   └── 81
+│       ├── chromedriver
+│       └── chromedriver.exe
+├── data
+├── debug.log
+├── documentation
+│   ├── gru vs lstm.jpg
+│   ├── lstm vs gru.png
+│   └── neural network architectures.png
+├── EDA_I.ipynb - 55 lines
+├── Education vs Jobtitle - ANN.ipynb - 109 lines, By Alvyn Abranches
+├── Education vs Jobtitle.ipynb - 79 lines, By Alvyn Abranches
+├── Glassdoor
+│   ├── Android-India-job-results.csv
+│   ├── data+scientist-Pune-job-results.csv
+│   └── GLASSDOOR_WEBSCRAPPING.py - 125 lines, By Mangirish Bhagat
+├── indeed_results_pp_2020-04-27.xlsx
+├── indeed_results.xlsx
+├── india_pincodes.txt
+├── __init__.py - 42 lines, By Alvyn Abranches
+├── jobs.py - 17 lines, By Alvyn Abranches
+├── Linear Reg.ipynb - 23 lines, By Utkarsh Patel
+├── locations.py - 1620 lines, By Alvyn Abranches
+├── Logestic_Regression on XP_Experience, XP_Fresher VS Salary_Average.ipynb - 22 lines, By Alvyn Abranches
+├── LSTM.ipynb - 96 lines, By Alvyn Abranches
+├── ml
+│   ├── algorithms
+│   │   ├── base_classifiers.py - 58 lines, By Alvyn Abranches
+│   │   ├── base_regressors.py - 74 lines, By Alvyn Abranches
+│   │   └── __pycache__
+│   │       ├── base_classifiers.cpython-37.pyc
+│   │       └── base_regressors.cpython-37.pyc
+│   ├── model
+│   ├── preprocessing
+│   │   ├── cleansing.py - 698 lines, By Alvyn Abranches
+│   │   ├── preprocess_data.py - 153 lines, By Alvyn Abranches
+│   │   └── __pycache__
+│   │       ├── cleansing.cpython-37.pyc
+│   │       └── preprocess_data.cpython-37.pyc
+│   └── website
+│       ├── app.py - 263 lines, By Alvyn Abranches
+│       └── __pycache__
+│           └── app.cpython-37.pyc
+├── preprocessing.ipynb - 39 lines, By Alvyn Abranches
+├── public
+│   └── pincodes.csv
+├── __pycache__
+│   ├── __init__.cpython-37.pyc
+│   ├── jobs.cpython-37.pyc
+│   └── locations.cpython-37.pyc
+├── Qualification, Experience vs Salary - ANN.ipynb - 96 lines, By Alvyn Abranches
+├── Qualification, Experience vs Salary.ipynb - 93 lines, By Alvyn Abranches
+├── README.md - 15 lines, By Alvyn Abranches
+├── server.py - 40 lines, By Alvyn Abranches
+├── try.ipynb - 84 lines, By Alvyn Abranches
+├── webscrapping
+│   ├── multithreadwebscraping.py - 63 lines, By Alvyn Abranches
+│   ├── preprocessing.py - 43 lines, By Alvyn Abranches
+│   ├── __pycache__
+│   │   ├── multithreadwebscraping.cpython-37.pyc
+│   │   ├── preprocessing.cpython-37.pyc
+│   │   └── webscrapping.cpython-37.pyc
+│   ├── Readme.md - 4 lines, By Alvyn Abranches
+│   └── webscrapping.py - 188 lines, By Alvyn Abranches
+└── website
+    ├── bigdata
+    │   ├── admin.py - 4 lines, By Alvyn Abranches
+    │   ├── apps.py - 6 lines, By Alvyn Abranches
+    │   ├── __init__.py - 4 lines, By Alvyn Abranches
+    │   ├── migrations
+    │   │   ├── __init__.py - 1 line, By Alvyn Abranches
+    │   │   └── __pycache__
+    │   │       └── __init__.cpython-37.pyc
+    │   ├── models.py - 4 lines, By Alvyn Abranches
+    │   ├── __pycache__
+    │   │   ├── admin.cpython-37.pyc
+    │   │   ├── __init__.cpython-37.pyc
+    │   │   ├── models.cpython-37.pyc
+    │   │   └── views.cpython-37.pyc
+    │   ├── tests.py - 4 lines, By Alvyn Abranches
+    │   └── views.py - 8 lines, By Alvyn Abranches
+    ├── db.sqlite3
+    ├── manage.py - 22 lines, By Alvyn Abranches
+    ├── ml
+    │   ├── admin.py - 4 lines, By Alvyn Abranches
+    │   ├── apps.py - 6 lines, By Alvyn Abranches
+    │   ├── __init__.py - 1 line, By Alvyn Abranches
+    │   ├── migrations
+    │   │   ├── __init__.py - 1 line, By Alvyn Abranches
+    │   │   └── __pycache__
+    │   │       └── __init__.cpython-37.pyc
+    │   ├── models.py - 4 lines, By Alvyn Abranches
+    │   ├── __pycache__
+    │   │   ├── admin.cpython-37.pyc
+    │   │   ├── __init__.cpython-37.pyc
+    │   │   ├── models.cpython-37.pyc
+    │   │   └── views.cpython-37.pyc
+    │   ├── tests.py - 4 lines, By Alvyn Abranches
+    │   └── views.py - 8 lines, By Alvyn Abranches
+    └── website
+        ├── asgi.py - 17 lines, By Alvyn Abranches
+        ├── __init__.py - 1 line, By Alvyn Abranches
+        ├── __pycache__
+        │   ├── __init__.cpython-37.pyc
+        │   ├── settings.cpython-37.pyc
+        │   ├── urls.cpython-37.pyc
+        │   └── wsgi.cpython-37.pyc
+        ├── settings.py - 123 lines, By Alvyn Abranches
+        ├── urls.py - 29 lines, By Alvyn Abranches
+        └── wsgi.py - 17 lines, By Alvyn Abranches
+
+33 directories, 91 files
+

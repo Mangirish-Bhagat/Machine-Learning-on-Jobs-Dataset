@@ -1,9 +1,11 @@
-# Machine-Learning-on-Jobs-Dataset
+# Machine Learning With Job Data
 
-•	Data was obtained through web scrapping from popular job posting sites like Indeed and Glassdoor.
+Web Scraping Done on Indeed Website. <br>
+Preprocessing has been done on the indeed dataset. <br>
+Data Visualization Will be done on this data <br>
+Machine Learning is To Be Done on this data. <br>
+Deep Learning Algorithms will also be tried on this data. <br>
+<br><br><br><br><br>
+[server.py](https://github.com/alvynabranches/Machine_Learning_With_Job_Data/blob/master/server.py) This is the main file of the project
 
-•	Data was pre-processed and exploratory data analysis was performed on the same dataset.
-
-•	NLP was used for segmentation of job description. 
-
-•	Machine learning algorithms were performed like regression and classification
+All Changes are committed of the final project on 2nd May 2020.
